@@ -1,5 +1,5 @@
 # CreamTripApiLinux
-CreamAPI linux для HoI4, Stellaris, CKIII
+CreamAPI linux DLC Unlocker для HoI4, Stellaris, CKIII
 ## Це лише модифікація модифікації
 Я не творець цього активатора доповнень, це лише частково обрізана та доповнена версія.
 - **Оригінал:** [CreamLinux від Rosentti/clamor-s](https://github.com/clamor-s/creamlinux)
