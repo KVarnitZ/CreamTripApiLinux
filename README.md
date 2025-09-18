@@ -12,7 +12,7 @@ CreamAPI linux DLC Unlocker для HoI4, Stellaris, CKIII
 Якщо все ж таки проблем не уникнути, перевірте встановлені доповнення, всередині кожного є файл ```dlcXXX.dlc```, або схожий, в них значенння ```steam_id = "xxxxxxx"``` мають бути такими самими як і в завантаженому звідси ```cream_api.ini```. Якщо ж не спідпадають, то СКОПІЮЙТЕ ЙОГО з ```cream_api.ini``` та ВСТАВТЕ у доповнення. Не навпаки, бо помилитися могли ВИКЛЮЧНО пірати доповнень.
 ## Користування
 Дуже просто, лише слідуйте цим пунктам, якщо якийсь не буде виконан - не запуститься.
-1. Вантажите архів, [останній](https://github.com/KVarnitZ/CreamTripApiLinux/releases/download/latest/CreamTripApiLinux.tar.gz) випуск.
+1. Вантажите архів, [останній](https://github.com/KVarnitZ/CreamTripApiLinux/releases/latest/download/CreamTripApiLinux.tar.gz) випуск.
 2. Розпаковуєте архів у папку гри.
 3. У параметри запуску вписуєте ```sh ./cream.sh %command%```
 4. Запускаєте гру та гарно так тріпетесь!
